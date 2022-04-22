@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "antd": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-drag-listview": "0.1.3"
+  },
+  "keywords": [],
+  "name": "draggable-ant-list",
+  "description": ""
+}
